@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["Blazor"]
+  "cSpell.words": ["Blazor"],
+  "dotnet.defaultSolution": "BlazorWeatherApp.sln"
 }
